@@ -1,6 +1,3 @@
-
-![MasterHead](https://media.licdn.com/dms/image/v2/D4E16AQFEggnJ_1tfmA/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1735820325162?e=1741219200&v=beta&t=FMj_Vs9wf2gFzLEez1wNTc9otq4L8gctmQpYjcf79Js)
-
 <h1 align="center">Hi 👋, I'm Nihad Hanifayev</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihadhanifayev&label=Profile%20views&color=0e75b6&style=flat" alt="nihadhanifayev" /> </p>
 
